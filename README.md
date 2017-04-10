@@ -25,7 +25,7 @@ Sur Github, fork le projet "[learning-environment](https://github.com/becodeorg/
 ### Critères minimum
 - une liste à puces
 - une liste numérotée
-- 4 niveaux de titres et sous-titres
+- 3 niveaux de titres et sous-titres
 - des liens
 - insertion d’une image statique
 - insertion d’une image animée
