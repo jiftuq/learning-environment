@@ -22,7 +22,7 @@ Sur Github, fork le projet "[learning-environment](https://github.com/becodeorg/
 - Utilise le système des branches de Git pour travailler collaborativement ce contenu.
 -  Pour le contenu en lui-même, rédige-le dans un (ou plusieurs) document(s) en MarkDown.
 
-### critères minimum
+### Critères minimum
 - une liste à puces
 - une liste numérotée
 - 4 niveaux de titres et sous-titres
@@ -31,10 +31,10 @@ Sur Github, fork le projet "[learning-environment](https://github.com/becodeorg/
 - insertion d’une image animée
 - [UX](https://www.youtube.com/watch?v=Ovj4hFxko7c): que l’information transmise / l’histoire racontée soit intéressante, pertinente, correcte et originale (dans le sens “personnel”, pas un copier-coller).
 
-### critères de perfectionnement
+### Critères de perfectionnement
 - listes à puce imbriquées (donc plusieurs niveaux hiérarchiques)
 - listes numérotées imbriquées
 - publication de [ce bout de code](http://stackoverflow.com/a/1701672/53960) de manière formattée.
  
-### deadline
+### Deadline
 Lundi 16h45.
