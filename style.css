@@ -1,8 +1,7 @@
-h1 {
-	color: #1D397F;
-}
 h2 {
-	color: #2E5CCC;
+	background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
 }
 a {
 	color: #43557F;
@@ -10,4 +9,9 @@ a {
 }
 body {
 	background-color: rgba(134, 169, 255, 0.20); 
+}
+h1 {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
 }
